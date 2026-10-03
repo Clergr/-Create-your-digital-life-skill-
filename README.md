@@ -2,7 +2,7 @@
 
 # 数字生命体 · Digital Life
 
-> **数据决定"我"是谁。** 导入一个人的聊天记录、AI 会话、笔记与照片，把它解构成一个能开口说话的"我"。
+> **数据决定"我"是谁。** 导入一个人的聊天记录、笔记与照片等，把它解构成一个能开口说话的"我"。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![AgentSkills](https://img.shields.io/badge/AgentSkills-Standard-green)](https://agentskills.io)
