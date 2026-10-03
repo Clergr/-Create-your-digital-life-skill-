@@ -129,6 +129,9 @@ digital-life/
 4. **伦理**：这是自我观察与创作工具，不要用来冒充真人对外交流或获取信任。
 
 
+
+## 鸣谢 / Acknowledgements
+
 这个项目站在别人的肩膀上。特别感谢：
 
 - **[WeFlow](https://github.com/hicccc77/WeFlow)** · 作者 **cc（hicccc77）** —— 微信聊天记录导出工具（官网 https://weflow.top ）。本项目推荐使用它，并在 Release 中提供镜像安装包。遵循 **CC BY-NC-SA 4.0**（署名 · 非商业 · 相同方式共享）。
