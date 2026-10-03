@@ -119,12 +119,7 @@ digital-life/
     └── example-self.md      脱敏示例（虚构人物）
 ```
 
-## 为什么值得用
 
-- **可验证**：每条结论都要求标注来源（哪份文件、哪条记录、什么时间）
-- **可纠错**：说"我不会这样说"，系统走 correction 流程写进档案并重新生成
-- **可回滚**：每次改动自动存快照，随时回到上一版
-- **可迁移**：换一份数据就是另一个人，流程不变
 
 ## 已知边界
 
@@ -132,6 +127,18 @@ digital-life/
 2. **场景 ≠ 特征**：单一场景里的高强度表现不能当成稳定人格（见 `docs/LESSONS.md`）。
 3. **隐私**：原始材料往往包含第三方的账号、住址、私事。发布或分享前必须清理，见 `docs/PRIVACY.md`。
 4. **伦理**：这是自我观察与创作工具，不要用来冒充真人对外交流或获取信任。
+
+
+这个项目站在别人的肩膀上。特别感谢：
+
+- **[WeFlow](https://github.com/hicccc77/WeFlow)** · 作者 **cc（hicccc77）** —— 微信聊天记录导出工具（官网 https://weflow.top ）。本项目推荐使用它，并在 Release 中提供镜像安装包。遵循 **CC BY-NC-SA 4.0**（署名 · 非商业 · 相同方式共享）。
+- **[yourself-skill](https://github.com/notdog1998/yourself-skill)** · 作者 **notdog1998** —— "问答 + 导入聊天记录 → 生成人格 Skill" 这一产品形态的来源，也启发了我"把自己蒸馏成 Skill"这件事。
+- **[colleague-skill](https://github.com/titanwings/colleague-skill)** · 作者 **titanwings** —— "记忆 + 人格" 双层架构的原始思路。
+- **[AgentSkills](https://agentskills.io)** 社区规范 —— `SKILL.md` + `prompts/` + `tools/` 的技能组织约定。
+
+完整的第三方声明、许可与再分发时必须保留的署名文本，见 [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md)。
+
+
 
 ## English
 
