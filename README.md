@@ -33,9 +33,9 @@ git clone https://github.com/<your-name>/digital-life
 cd digital-life && pip install -r requirements.txt
 ```
 
-## 步骤：
+## 使用：
 
-| 做什么 | 用什么 |
+|步骤| 做什么 | 用什么 |
 |---|---|---|
 | 1 采集 | 拿到原始材料：微信/QQ 导出、AI对话、日记、笔记、照片、视频等等 | 你手上的导出文件 |
 | 2 摄取 | 把材料抽成**只有"我"说的话**的纯文本语料，去噪去重 | `tools/ingest.py` |
