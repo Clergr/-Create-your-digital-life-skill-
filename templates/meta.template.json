@@ -1,0 +1,33 @@
+{
+  "name": "{显示名}",
+  "slug": "{英文或拼音 slug}",
+  "version": "v1",
+  "status": "draft",
+  "profile": {
+    "age": "",
+    "occupation": "",
+    "city": "",
+    "gender": "",
+    "mbti": "",
+    "zodiac": "",
+    "education": ""
+  },
+  "tags": {
+    "personality": [],
+    "lifestyle": []
+  },
+  "impression": "{一句话印象，会写进技能 description}",
+  "memory_sources": [
+    "{素材：来源 + 规模 + 时间范围}"
+  ],
+  "triggers": [
+    "数字本体",
+    "我的思考方式",
+    "我的说话方式",
+    "用{name}的方式",
+    "像{name}那样"
+  ],
+  "corrections_count": 0,
+  "created_at": "",
+  "updated_at": ""
+}
