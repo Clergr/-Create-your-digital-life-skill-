@@ -62,27 +62,13 @@ python tools/build_skill.py --slug xiao-bei --base-dir ~/.agents/skills \
   --self ./work/self.md --persona ./work/persona.md --meta ./work/meta.json
 ```
 
-### 素材怎么来：WeFlow（推荐）
+### 素材怎么来：WeFlow导出微信聊天记录（推荐）
 
-导出微信聊天记录推荐用 **WeFlow**（官网 https://weflow.top ，上游 https://github.com/hicccc77/WeFlow ）。
+感谢来自CC大佬的开源项目（官网 https://weflow.top ，上游 https://github.com/hicccc77/WeFlow ）。
 
-```powershell
-# 只看不下载：只打印官网、上游、推荐版本与许可信息
-.\tools\third-party\get-weflow.ps1
+【压缩包放在Releases可以直接下载】
 
-# 按需下载：装到 third_party\（已 gitignore），不自动安装
-.\tools\third-party\get-weflow.ps1 -Download -MirrorRepo "<维护者>/digital-life-skill"
-```
 
-脚本走**三级回退**：官方 Releases → 本仓库镜像 Release → 打印链接后停止（绝不猜测地址）。
-拿到安装包后自行双击安装，用 WeFlow 导出 **txt**，然后：
-
-```bash
-python tools/ingest.py --source wechat-txt --input "D:\导出的文件夹" --me "我" --out ./corpus
-```
-
-> **本仓库不附带 WeFlow 安装包**：它 169.8MB，超过 GitHub 单文件 100MB 硬上限（zip 后仍 169.5MB）；
-> 且上游采用 **CC BY-NC-SA 4.0**（署名 · 非商业 · 相同方式共享）。详见 `tools/third-party/README.md`。
 
 ## 触发词（可多选）
 
