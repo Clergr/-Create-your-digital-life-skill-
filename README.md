@@ -62,7 +62,7 @@ python tools/build_skill.py --slug xiao-bei --base-dir ~/.agents/skills \
   --self ./work/self.md --persona ./work/persona.md --meta ./work/meta.json
 ```
 
-### 素材怎么来：WeFlow导出微信聊天记录（推荐）
+### 聊天记录怎么来：WeFlow导出微信聊天记录（推荐）
 
 感谢来自CC大佬的开源项目（官网 https://weflow.top ，上游 https://github.com/hicccc77/WeFlow ）。
 
