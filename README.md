@@ -62,12 +62,12 @@ python tools/build_skill.py --slug xiao-bei --base-dir ~/.agents/skills \
   --self ./work/self.md --persona ./work/persona.md --meta ./work/meta.json
 ```
 
-### 聊天记录怎么来：WeFlow导出微信聊天记录（推荐）
 ## 导出微信聊天记录：请从本仓库 Releases 下载 WeFlow
+
+它是我测试过能直接用的版本（官网当前的下载按钮读不到上游 Release，所以这里做了一份镜像）。
 
 感谢来自CC大佬的开源项目（官网 https://weflow.top ，上游 https://github.com/hicccc77/WeFlow ）。
 
-【压缩包放在Releases可以直接下载】
 
 
 
