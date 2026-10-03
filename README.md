@@ -33,7 +33,7 @@ git clone https://github.com/<your-name>/digital-life
 cd digital-life && pip install -r requirements.txt
 ```
 
-## 使用：五步
+## 使用：
 
 | 步骤 | 做什么 | 用什么 |
 |---|---|---|
