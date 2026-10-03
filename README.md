@@ -137,7 +137,7 @@ digital-life/
 
 ## 鸣谢 / Acknowledgements
 
-这个项目站在别人的肩膀上。特别感谢：
+这个项目站在大佬们的肩膀上。特别感谢：
 
 - **[WeFlow](https://github.com/hicccc77/WeFlow)** · 作者 **cc（hicccc77）** —— 微信聊天记录导出工具（官网 https://weflow.top ）。本项目推荐使用它，并在 Release 中提供镜像安装包。遵循 **CC BY-NC-SA 4.0**（署名 · 非商业 · 相同方式共享）。
 - **[yourself-skill](https://github.com/notdog1998/yourself-skill)** · 作者 **notdog1998** —— "问答 + 导入聊天记录 → 生成人格 Skill" 这一产品形态的来源，也启发了我"把自己蒸馏成 Skill"这件事。
